@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/amitjha1537/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/amitjha1537/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjha1537/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/amitjha1537/LeetCode/tree/master/0274-h-index) |
 | [1829-maximum-units-on-a-truck](https://github.com/amitjha1537/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 ## Greedy
@@ -59,8 +60,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/amitjha1537/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/amitjha1537/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

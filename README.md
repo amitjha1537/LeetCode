@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/amitjha1537/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/amitjha1537/LeetCode/tree/master/0133-clone-graph) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

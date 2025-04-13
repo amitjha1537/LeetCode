@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/amitjha1537/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/amitjha1537/LeetCode/tree/master/0274-h-index) |
 | [1829-maximum-units-on-a-truck](https://github.com/amitjha1537/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
+| [3582-find-indices-of-stable-mountains](https://github.com/amitjha1537/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Greedy
 |  |
 | ------- |

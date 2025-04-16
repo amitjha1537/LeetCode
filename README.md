@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/amitjha1537/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/amitjha1537/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/amitjha1537/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amitjha1537/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/amitjha1537/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/amitjha1537/LeetCode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/amitjha1537/LeetCode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/amitjha1537/LeetCode/tree/master/0547-number-of-provinces) |
 ## Recursion
 |  |
 | ------- |

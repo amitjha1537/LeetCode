@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amitjha1537/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amitjha1537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjha1537/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/amitjha1537/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/amitjha1537/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/amitjha1537/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amitjha1537/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/amitjha1537/LeetCode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/amitjha1537/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/amitjha1537/LeetCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
 | [1256-rank-transform-of-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amitjha1537/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/amitjha1537/LeetCode/tree/master/0274-h-index) |
 ## Database
 |  |

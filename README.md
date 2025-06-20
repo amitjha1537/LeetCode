@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amitjha1537/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/amitjha1537/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amitjha1537/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amitjha1537/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/amitjha1537/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/amitjha1537/LeetCode/tree/master/0078-subsets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/amitjha1537/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
 ## Tree
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/amitjha1537/LeetCode/tree/master/1036-rotting-oranges) |

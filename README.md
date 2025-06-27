@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/amitjha1537/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/amitjha1537/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/amitjha1537/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/amitjha1537/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Prefix Sum
 |  |
 | ------- |

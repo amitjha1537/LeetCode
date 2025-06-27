@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amitjha1537/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
+| [2496-count-days-spent-together](https://github.com/amitjha1537/LeetCode/tree/master/2496-count-days-spent-together) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/amitjha1537/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2496-count-days-spent-together](https://github.com/amitjha1537/LeetCode/tree/master/2496-count-days-spent-together) |
 ## Prefix Sum
 |  |
 | ------- |

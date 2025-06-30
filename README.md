@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjha1537/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/amitjha1537/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/amitjha1537/LeetCode/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/amitjha1537/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amitjha1537/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
 | [2496-count-days-spent-together](https://github.com/amitjha1537/LeetCode/tree/master/2496-count-days-spent-together) |
 ## Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amitjha1537/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amitjha1537/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

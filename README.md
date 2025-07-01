@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/amitjha1537/LeetCode/tree/master/2383-add-two-integers) |
 | [2496-count-days-spent-together](https://github.com/amitjha1537/LeetCode/tree/master/2496-count-days-spent-together) |
 ## Tree
 |  |

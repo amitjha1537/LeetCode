@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/amitjha1537/LeetCode/tree/master/0134-gas-station) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amitjha1537/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1829-maximum-units-on-a-truck](https://github.com/amitjha1537/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjha1537/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitjha1537/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/amitjha1537/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2496-count-days-spent-together](https://github.com/amitjha1537/LeetCode/tree/master/2496-count-days-spent-together) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amitjha1537/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amitjha1537/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amitjha1537/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |

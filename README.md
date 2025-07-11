@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amitjha1537/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0835-linked-list-components](https://github.com/amitjha1537/LeetCode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/amitjha1537/LeetCode/tree/master/0838-design-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/amitjha1537/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -338,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/amitjha1537/LeetCode/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/amitjha1537/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

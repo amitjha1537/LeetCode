@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amitjha1537/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amitjha1537/LeetCode/tree/master/0050-powx-n) |
+| [0319-bulb-switcher](https://github.com/amitjha1537/LeetCode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/amitjha1537/LeetCode/tree/master/1500-count-largest-group) |
 | [2383-add-two-integers](https://github.com/amitjha1537/LeetCode/tree/master/2383-add-two-integers) |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/amitjha1537/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/amitjha1537/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

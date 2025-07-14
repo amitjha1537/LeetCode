@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/amitjha1537/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amitjha1537/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2737-row-with-maximum-ones](https://github.com/amitjha1537/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3582-find-indices-of-stable-mountains](https://github.com/amitjha1537/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Greedy
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/amitjha1537/LeetCode/tree/master/1036-rotting-oranges) |
+| [2737-row-with-maximum-ones](https://github.com/amitjha1537/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## Graph
 |  |
 | ------- |

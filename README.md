@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amitjha1537/LeetCode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/amitjha1537/LeetCode/tree/master/0724-find-pivot-index) |
 | [0835-linked-list-components](https://github.com/amitjha1537/LeetCode/tree/master/0835-linked-list-components) |
 | [0907-koko-eating-bananas](https://github.com/amitjha1537/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amitjha1537/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/amitjha1537/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0835-linked-list-components](https://github.com/amitjha1537/LeetCode/tree/master/0835-linked-list-components) |
 | [1256-rank-transform-of-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1500-count-largest-group](https://github.com/amitjha1537/LeetCode/tree/master/1500-count-largest-group) |
@@ -326,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/amitjha1537/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amitjha1537/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amitjha1537/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amitjha1537/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amitjha1537/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |

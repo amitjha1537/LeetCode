@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/amitjha1537/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amitjha1537/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/amitjha1537/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/amitjha1537/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3582-find-indices-of-stable-mountains](https://github.com/amitjha1537/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Greedy
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amitjha1537/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2227-sum-of-subarray-ranges](https://github.com/amitjha1537/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjha1537/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/amitjha1537/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/amitjha1537/LeetCode/tree/master/0835-linked-list-components) |
 | [0907-koko-eating-bananas](https://github.com/amitjha1537/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/amitjha1537/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/amitjha1537/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitjha1537/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amitjha1537/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0835-linked-list-components](https://github.com/amitjha1537/LeetCode/tree/master/0835-linked-list-components) |
+| [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1500-count-largest-group](https://github.com/amitjha1537/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amitjha1537/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/amitjha1537/LeetCode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitjha1537/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Topological Sort
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amitjha1537/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitjha1537/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Memoization
 |  |

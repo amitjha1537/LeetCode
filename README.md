@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amitjha1537/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/amitjha1537/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/amitjha1537/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amitjha1537/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amitjha1537/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amitjha1537/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amitjha1537/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amitjha1537/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Counting Sort
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjha1537/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
+| [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/amitjha1537/LeetCode/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amitjha1537/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |

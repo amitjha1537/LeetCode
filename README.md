@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amitjha1537/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/amitjha1537/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/amitjha1537/LeetCode/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/amitjha1537/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amitjha1537/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |

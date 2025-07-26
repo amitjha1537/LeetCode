@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjha1537/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amitjha1537/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amitjha1537/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amitjha1537/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/amitjha1537/LeetCode/tree/master/0118-pascals-triangle) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amitjha1537/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amitjha1537/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amitjha1537/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/amitjha1537/LeetCode/tree/master/0046-permutations) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amitjha1537/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amitjha1537/LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/amitjha1537/LeetCode/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/amitjha1537/LeetCode/tree/master/0402-remove-k-digits) |

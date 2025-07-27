@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amitjha1537/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/amitjha1537/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/amitjha1537/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3582-find-indices-of-stable-mountains](https://github.com/amitjha1537/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Greedy

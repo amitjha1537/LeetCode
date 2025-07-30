@@ -1,11 +1,10 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
+        Set<Integer> set=new HashSet<>();
         for(int num:nums){
-            map.put(num,map.getOrDefault(num,0)+1);
-        }
-        if(map.size()<nums.length){
-            return true;
+            if(!set.add(num)){
+                return true;
+            }
         }
         return false;
         

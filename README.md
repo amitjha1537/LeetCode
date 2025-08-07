@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/amitjha1537/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3582-find-indices-of-stable-mountains](https://github.com/amitjha1537/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3790-fruits-into-baskets-ii](https://github.com/amitjha1537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/amitjha1537/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amitjha1537/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/amitjha1537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/amitjha1537/LeetCode/tree/master/0735-asteroid-collision) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/amitjha1537/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3790-fruits-into-baskets-ii](https://github.com/amitjha1537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -454,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/amitjha1537/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/amitjha1537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/amitjha1537/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

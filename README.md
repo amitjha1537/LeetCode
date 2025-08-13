@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amitjha1537/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amitjha1537/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjha1537/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/amitjha1537/LeetCode/tree/master/0724-find-pivot-index) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amitjha1537/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amitjha1537/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/amitjha1537/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amitjha1537/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amitjha1537/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/amitjha1537/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/amitjha1537/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |

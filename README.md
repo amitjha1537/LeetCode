@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/amitjha1537/LeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/amitjha1537/LeetCode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/amitjha1537/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amitjha1537/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/amitjha1537/LeetCode/tree/master/0494-target-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amitjha1537/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/amitjha1537/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/amitjha1537/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/amitjha1537/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amitjha1537/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/amitjha1537/LeetCode/tree/master/0494-target-sum) |

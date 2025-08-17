@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/amitjha1537/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/amitjha1537/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/amitjha1537/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitjha1537/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/amitjha1537/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amitjha1537/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/amitjha1537/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amitjha1537/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitjha1537/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |

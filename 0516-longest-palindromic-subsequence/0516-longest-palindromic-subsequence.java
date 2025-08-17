@@ -1,8 +1,5 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
-        // in java if you to initialize the row 1 and column 1 by 0 
-      //  there is no need as in java by default in places are occupied by 0
-      // but in good practice you should do, so in case u have do it otherwise so you should be prepared
       String rev=new StringBuilder(s).reverse().toString();
       int n=s.length();
       int[][] dp=new int[n+1][n+1];

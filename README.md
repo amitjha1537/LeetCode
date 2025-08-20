@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/amitjha1537/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amitjha1537/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/amitjha1537/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/amitjha1537/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/amitjha1537/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amitjha1537/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amitjha1537/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/amitjha1537/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amitjha1537/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/amitjha1537/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/amitjha1537/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amitjha1537/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amitjha1537/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amitjha1537/LeetCode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/amitjha1537/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/amitjha1537/LeetCode/tree/master/1036-rotting-oranges) |

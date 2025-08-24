@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amitjha1537/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/amitjha1537/LeetCode/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amitjha1537/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amitjha1537/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amitjha1537/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amitjha1537/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/amitjha1537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amitjha1537/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/amitjha1537/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amitjha1537/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amitjha1537/LeetCode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/amitjha1537/LeetCode/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/amitjha1537/LeetCode/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amitjha1537/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/amitjha1537/LeetCode/tree/master/1500-count-largest-group) |
 | [2383-add-two-integers](https://github.com/amitjha1537/LeetCode/tree/master/2383-add-two-integers) |
 | [2496-count-days-spent-together](https://github.com/amitjha1537/LeetCode/tree/master/2496-count-days-spent-together) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/amitjha1537/LeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitjha1537/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amitjha1537/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Topological Sort
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/amitjha1537/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/amitjha1537/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/amitjha1537/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/amitjha1537/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Memoization
 |  |
 | ------- |

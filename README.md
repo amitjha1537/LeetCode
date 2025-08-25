@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amitjha1537/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amitjha1537/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/amitjha1537/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/amitjha1537/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/amitjha1537/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/amitjha1537/LeetCode/tree/master/0735-asteroid-collision) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/amitjha1537/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/amitjha1537/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/amitjha1537/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/amitjha1537/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/amitjha1537/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/amitjha1537/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/amitjha1537/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/amitjha1537/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/amitjha1537/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/amitjha1537/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amitjha1537/LeetCode/tree/master/1036-rotting-oranges) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/amitjha1537/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/amitjha1537/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/amitjha1537/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amitjha1537/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/amitjha1537/LeetCode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amitjha1537/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
